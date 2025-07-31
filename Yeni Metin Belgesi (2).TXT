@@ -1,0 +1,16 @@
+# MiniNetScanner
+
+A cross-platform network scanner built with Flutter and Python.  
+Features include:
+- Device detection using Nmap
+- JSON report export
+- Android permissions analysis
+
+## To Do
+- [ ] Flutter UI design
+- [ ] Python Nmap integration
+- [ ] JSON export
+- [ ] Android permission checker
+
+## Requirements
+See `requirements.txt` for dependencies.

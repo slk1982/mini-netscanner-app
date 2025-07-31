@@ -1,0 +1,6 @@
+import nmap
+
+def scan_network(ip_range):
+    scanner = nmap.PortScanner()
+    scanner.scan(hosts=ip_range, arguments='-sP')
+    return scanner.all_hosts()

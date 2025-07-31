@@ -1,0 +1,8 @@
+MiniNetScanner/
+├── README.md
+├── requirements.txt
+├── assets/
+├── lib/
+│   └── main.dart
+├── scanner/
+│   └── nmap_handler.py
